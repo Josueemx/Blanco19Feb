@@ -1,0 +1,17 @@
+C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=Blanco19Feb
+--content-root=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Contacts\Create.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Contacts\Delete.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Contacts\Details.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Contacts\Edit.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Contacts\Index.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Home\About.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Home\Contact.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Home\Index.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Shared\Error.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Shared\_Layout.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\_ViewImports.cshtml
+--file=C:\Users\Josué Morales\Documents\AppsWeb\2doParcial\Trabajos\Blanco19Feb\Blanco19Feb\Views\_ViewStart.cshtml
